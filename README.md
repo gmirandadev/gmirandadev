@@ -1,16 +1,15 @@
-### Hi there 👋
+# Hi, I'm Guilherme Miranda :computer:
+*Software Engineer at* [Grupo Zap](https://www.grupozap.com/)<br>
+*Studying Information Systems at* [UAM](https://portal.anhembi.br/)<br>
+*Graduated as Computer Technician from* [ETESP](http://www.etesaopaulo.com.br/)
 
-<!--
-**gmirandadev/gmirandadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer focused on Salesforce and Java solutions.
 
-Here are some ideas to get you started:
+## Goals
+- Focused on working with backend with a focus on languages Java and Python.
+- Improving my skills in Cloud Computing, Messaging/Streams, CD/CI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+
+## LinkedIn
+[Guilherme Miranda](https://www.linkedin.com/in/guilherme-m-786581101/)
