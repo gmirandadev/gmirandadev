@@ -14,15 +14,15 @@ Improving my skills in:
 
 ## Technologies
 <p align="left">
-  <code><img src="https://user-images.githubusercontent.com/15850886/93725871-ef788b00-fb88-11ea-889e-3c09b694edea.png" alt="Apex" width="50" height="40" /></code>&nbsp;
-  <code><img src="https://user-images.githubusercontent.com/15850886/93725759-ec30cf80-fb87-11ea-876f-aca807ead881.png" alt="Java" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://user-images.githubusercontent.com/15850886/93726500-c2c67280-fb8c-11ea-9359-e58d513c7b6b.png" alt="Python" width="40" height="40"/></code>&nbsp;
-  <code><img src="https://user-images.githubusercontent.com/15850886/93725949-a96ff700-fb89-11ea-8825-853aa9eaf571.png" alt="MySQL" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://user-images.githubusercontent.com/15850886/93726242-42ebd880-fb8b-11ea-8cc8-c80deb32615c.png" alt="HTML" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://user-images.githubusercontent.com/15850886/93726245-47b08c80-fb8b-11ea-8115-015d4153a41e.png" alt="CSS" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://img.icons8.com/color/48/000000/javascript.png"/></code>&nbsp;
-  <code><img src="https://user-images.githubusercontent.com/15850886/93726311-b8f03f80-fb8b-11ea-9a24-d319a3b91461.png" alt="Wordpress" width="40" height="40" /></code>&nbsp;
-  <code><img src="https://user-images.githubusercontent.com/15850886/93726570-2781cd00-fb8d-11ea-9223-3126a11dc197.png" alt="Wordpress" width="40" height="40" /></code>&nbsp; 
+  <img src="https://img.icons8.com/color/48/000000/salesforce.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/python.png"/>&nbsp;
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/426/mysql-48.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/css3.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/wordpress.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/000000/docker.png"/>&nbsp; 
 </p>
 
 ## LinkedIn
