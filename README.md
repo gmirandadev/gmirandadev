@@ -7,7 +7,6 @@
 Software Engineer focused on Salesforce and Java solutions. Focused on working with backend with a focus on languages Java and Python.
 
 ## Goals/Studying
-Improving my skills in:
 <p align="left">
   <img src="https://img.icons8.com/color/40/000000/amazon-web-services.png"/>&nbsp;
   <img src="https://img.icons8.com/color/40/000000/jenkins.png"/>&nbsp;
