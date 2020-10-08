@@ -14,17 +14,19 @@ Improving my skills in:
 
 ## Technologies
 <p align="left">
-  <img src="https://img.icons8.com/color/48/000000/salesforce.png"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/python.png"/>&nbsp;
-  <img src="https://img.icons8.com/offices/48/000000/php-logo.png"/>&nbsp;
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/426/mysql-48.png"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/html-5.png"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/css3.png"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/javascript.png"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/wordpress.png"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/docker.png"/>&nbsp;
-  <img src="https://img.icons8.com/color/48/000000/npm.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/40/000000/salesforce.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/40/000000/python.png"/>&nbsp;
+  <img src="https://img.icons8.com/offices/40/000000/php-logo.png"/>&nbsp;
+  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/426/mysql-40.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/40/000000/html-5.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/40/000000/css3.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/40/000000/javascript.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/40/000000/wordpress.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/40/000000/docker.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/40/000000/npm.png"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/15850886/95500880-e4419f80-097d-11eb-9b4f-05ab0d891b4f.png">&nbsp;
+  <img src="https://img.icons8.com/color/40/000000/sass.png"/>
 </p>
 
 ## LinkedIn
