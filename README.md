@@ -6,20 +6,13 @@
 
 Software Engineer focused on Salesforce and Java solutions. Focused on working with backend with a focus on languages Java and Python.
 
-## Goals/Studying
-<p align="left">
-  <img src="https://img.icons8.com/color/40/000000/amazon-web-services.png"/>&nbsp;
-  <img src="https://img.icons8.com/color/40/000000/jenkins.png"/>&nbsp;
-  <img src="https://img.icons8.com/color/40/000000/docker.png"/>&nbsp;
-</p>
-
 ## Technologies
 <p align="left">
   <img src="https://img.icons8.com/color/40/000000/salesforce.png"/>&nbsp;
   <img src="https://img.icons8.com/color/40/000000/java-coffee-cup-logo.png"/>&nbsp;
   <img src="https://img.icons8.com/color/40/000000/python.png"/>&nbsp;
   <img src="https://img.icons8.com/offices/40/000000/php-logo.png"/>&nbsp;
-  <img src="https://cdn4.iconfinder.com/data/icons/logos-3/426/mysql-40.png"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/15850886/95502275-f8869c00-097f-11eb-9829-d345ec57e52d.png"/>&nbsp;
   <img src="https://img.icons8.com/color/40/000000/html-5.png"/>&nbsp;
   <img src="https://img.icons8.com/color/40/000000/css3.png"/>&nbsp;
   <img src="https://img.icons8.com/color/40/000000/javascript.png"/>&nbsp;
@@ -27,6 +20,13 @@ Software Engineer focused on Salesforce and Java solutions. Focused on working w
   <img src="https://img.icons8.com/color/40/000000/npm.png"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/15850886/95500880-e4419f80-097d-11eb-9b4f-05ab0d891b4f.png">&nbsp;
   <img src="https://img.icons8.com/color/40/000000/sass.png"/>
+</p>
+
+## Goals/Studying
+<p align="left">
+  <img src="https://img.icons8.com/color/40/000000/amazon-web-services.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/40/000000/jenkins.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/40/000000/docker.png"/>&nbsp;
 </p>
 
 ## LinkedIn
