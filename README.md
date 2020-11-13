@@ -1,6 +1,6 @@
 
 # Hi, I'm Guilherme Miranda :computer:
-*Software Engineer at* [Grupo Zap](https://www.grupozap.com/)<br>
+*Software Engineer at* [OLX Brasil](https://portalolx.olx.com.br/quem-somos/)<br>
 *Studying Information Systems at* [UAM](https://portal.anhembi.br/)<br>
 *Graduated as Computer Technician from* [ETESP](http://www.etesaopaulo.com.br/)
 
