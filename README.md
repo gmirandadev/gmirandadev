@@ -20,13 +20,13 @@ Software Engineer focused on Salesforce and Java solutions. Focused on working w
   <img src="https://img.icons8.com/color/40/000000/npm.png"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/15850886/95500880-e4419f80-097d-11eb-9b4f-05ab0d891b4f.png">&nbsp;
   <img src="https://img.icons8.com/color/40/000000/sass.png"/>
+  <img src="https://img.icons8.com/color/40/000000/amazon-web-services.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/40/000000/docker.png"/>&nbsp;
 </p>
 
 ## Goals/Studying
 <p align="left">
-  <img src="https://img.icons8.com/color/40/000000/amazon-web-services.png"/>&nbsp;
   <img src="https://img.icons8.com/color/40/000000/jenkins.png"/>&nbsp;
-  <img src="https://img.icons8.com/color/40/000000/docker.png"/>&nbsp;
 </p>
 
 ## LinkedIn
