@@ -1,6 +1,6 @@
 
 # Hi, I'm Guilherme Miranda :computer:
-*Software Engineer at* [OLX Brasil](https://portalolx.olx.com.br/quem-somos/)<br>
+*Software Engineer at* [Grupo SBF](https://ri.gruposbf.com.br/)<br>
 *Studying Information Systems at* [UAM](https://portal.anhembi.br/)<br>
 *Graduated as Computer Technician from* [ETESP](http://www.etesaopaulo.com.br/)
 
@@ -22,11 +22,6 @@ Software Engineer focused on Salesforce and Java solutions. Focused on working w
   <img src="https://img.icons8.com/color/40/000000/sass.png"/>
   <img src="https://img.icons8.com/color/40/000000/amazon-web-services.png"/>&nbsp;
   <img src="https://img.icons8.com/color/40/000000/docker.png"/>&nbsp;
-</p>
-
-## Goals/Studying
-<p align="left">
-  <img src="https://img.icons8.com/color/40/000000/jenkins.png"/>&nbsp;
 </p>
 
 ## LinkedIn
