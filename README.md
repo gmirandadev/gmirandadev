@@ -29,6 +29,8 @@ Software Engineer focused on Typescript/Node/Python/Salesforce solutions.
   <img src="https://img.icons8.com/fluency/48/null/grafana.png"/>&nbsp;
   <img src="https://img.icons8.com/color/48/null/kibana.png"/>&nbsp;
   <img src="https://user-images.githubusercontent.com/15850886/204028009-3e895fca-8c4b-474d-ba73-732db753b545.png"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/15850886/204028315-e8476f32-e9a6-4f95-a37c-239775099f57.png"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/15850886/204028820-58dd45dc-0f94-42d5-8e69-e541c1445f92.jpeg"/>&nbsp;
 </p>
 
 ## LinkedIn
