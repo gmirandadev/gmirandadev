@@ -22,7 +22,15 @@ Software Engineer focused on Typescript/Node/Python/Salesforce solutions.
   <img src="https://img.icons8.com/color/40/000000/sass.png"/>
   <img src="https://img.icons8.com/color/40/000000/amazon-web-services.png"/>&nbsp;
   <img src="https://img.icons8.com/color/40/000000/docker.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/40/null/kubernetes.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/null/typescript.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/null/nodejs.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/null/google-cloud.png"/>&nbsp;
+  <img src="https://img.icons8.com/fluency/48/null/grafana.png"/>&nbsp;
+  <img src="https://img.icons8.com/color/48/null/kibana.png"/>&nbsp;
+  <img src="https://user-images.githubusercontent.com/15850886/204028009-3e895fca-8c4b-474d-ba73-732db753b545.png"/>&nbsp;
 </p>
 
 ## LinkedIn
+
 <a href="https://www.linkedin.com/in/guilherme-m-786581101/"><img src="https://img.icons8.com/fluent/40/000000/linkedin.png"/></a>
