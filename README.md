@@ -4,7 +4,7 @@
 *Studying Information Systems at* [UAM](https://portal.anhembi.br/)<br>
 *Graduated as Computer Technician from* [ETESP](http://www.etesaopaulo.com.br/)
 
-Software Engineer focused on Salesforce and Java solutions. Focused on working with backend with a focus on languages Java and Python.
+Software Engineer focused on Typescript/Node/Python/Salesforce solutions.
 
 ## Technologies
 <p align="left">
