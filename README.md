@@ -1,7 +1,7 @@
 
 # Hi, I'm Guilherme Miranda :computer:
 *Software Engineer at* [Grupo SBF](https://ri.gruposbf.com.br/)<br>
-*Studying Information Systems at* [UAM](https://portal.anhembi.br/)<br>
+*Graduated with a bachelor's degree in information systems* [UAM](https://portal.anhembi.br/)<br>
 *Graduated as Computer Technician from* [ETESP](http://www.etesaopaulo.com.br/)
 
 Software Engineer focused on Typescript/Node/Python/Salesforce solutions.
